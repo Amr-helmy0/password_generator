@@ -1,0 +1,2 @@
+# password_generator
+Whenever we need to create a password for any website or any kind of Mobile application, it becomes hectic for us to think about a strong password at that moment. So using react, you can create a password generator where you can create your strong passwords and can copy them to your clipboard. Users can select what to include in their passwords like small letters, capital letters, special characters, numbers
